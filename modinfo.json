@@ -1,16 +1,16 @@
 {
-	"name": "Profession_and_Mastery",
-	"description": "",
+	"name": "Class Mod",
+	"description": "The mod offers a selection of classes each with its own special abilities and perks. The idea of this class system is not to give a pvp-balanced oriented selection of choices but to give tools for non-combat oriented roleplayers an option to express their characters through the game mechanisms.\nWith that in mind, this mod does not locks already existing parts of the game from anyone ((for example as \"warrior\" you will still be able to pick the t3 building feat)) but offers new items/spells and effects for each class often with the ability to trade/share...\nMost important overall changes of the game:\n-T2/T3 religious feats are locked for Mystic class, but every recipe of these feats are available for everyone with the right priest thrall captured\n- Yellow Lotus potion is broken down into two potions, one for feats one for attributes\n- Removed the attribute bonuses from Armors and Warpaints\n- Corruption has a visual effect on players depending on its severity",
 	"changeNote": "",
-	"author": "",
+	"author": "Shendelzare",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamPublishedFileId": "1389681165",
+	"steamVisibility": 1,
 	"folderName": "Profession_and_Mastery",
-	"revisionNumber": 0,
-	"snapshotId": 0
+	"revisionNumber": 95799,
+	"snapshotId": 17790
 }
