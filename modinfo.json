@@ -1,16 +1,16 @@
 {
 	"name": "Class Mod",
 	"description": "[h1]Class mod features[/h1]\nThe mod offers a selection of classes each with its own special abilities and perks. The idea of this class system is not to give a pvp-balanced oriented selection of choices but to give tools for non-combat oriented roleplayers an option to express their characters through the game mechanisms.\nWith that in mind, this mod does not locks already existing parts of the game from anyone ((for example as \"warrior\" you will still be able to pick the t3 building feat)) but offers new items/spells and effects for each class often with the ability to trade/share...\n\n[h1]Most important overall changes of the game:[/h1]\n[list]\n[*]T2/T3 religious feats are locked for Mystic class, but every recipe of these feats are available for everyone with the right priest thrall captured\n[*] Yellow Lotus potion is broken down into two potions, one for feats one for attributes\n[*] Removed the attribute bonuses from Armors and Warpaints\n[*] Corruption has a visual effect on players depending on its severity\n[*] More information in the pinned discussion\n[/list]\n[h1]Changed assets / compatibility with other mods[/h1]\n[list]\n[*] Modified assets: 00_BP_AC_Buff_Corruption_Heavy/Medium/light\n[*] Yellow lotus potion and recipe overwriten in the Item and Recipe table\n[*] Fist weapon overwriten in the Item table\n[*] Bonus attributes for armors and warpaints overwriten in the ItemStatModificationTable\n[*] Religious perks modified in the FeatsTable\n[*] Priest Thralls modified in the ProfessionTemplateDateTable\n[/list]",
-	"changeNote": "[b]Hotfix 1.0.3:[/b]\n[list]\n[*] attribute removal from the DLC items\n[*] added vaults and hatch doors as a valid lockpick target\n[*] improvements in the lockpick chance calculations\n[*] added doors and hatches to be unlock/lockable\n[*] dixed the issue where lockpicks opened a door from \"memory\"\n[*] lockpicks now change the lock/unlock state of the doors instead of automatic open/close\n[*] changed the entertainer's belly dance buff to match the npc thrall's buff\n[/list]",
+	"changeNote": "[b]Hotfix 1.0.5:[/b]\n[list]\n[*] compatibility fix\n[*] sculpting fix\n[/list]",
 	"author": "Shendelzare",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 3,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1389681165",
 	"steamVisibility": 0,
 	"folderName": "Profession_and_Mastery",
-	"revisionNumber": 100903,
-	"snapshotId": 18362
+	"revisionNumber": 102943,
+	"snapshotId": 18618
 }
